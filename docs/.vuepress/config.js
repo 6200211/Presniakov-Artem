@@ -14,7 +14,7 @@ module.exports = {
     }]
   ],
   port: 3030,
-  base: '/TaskForge/',
+  base: '/Presniakov-Artem/',
   theme: 'cool',
   // dest: 'dist',
   head: [
